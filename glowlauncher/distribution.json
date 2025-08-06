@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "GDNMC_Server-1.12.2-1.12.2",
-      "name": "GDNMC_Server-1.12.2 (Minecraft 1.12.2)",
-      "description": "GDNMC_Server-1.12.2 Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
+      "id": "GDNMC_Server-1.12.2",
+      "name": "GDNMC_Server (Minecraft 1.12.2)",
+      "description": "GDNMC_Server Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
       "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
@@ -273,7 +273,7 @@
       "description": "GDNMC_Server Running Minecraft 1.20.1 (Forge v47.2.20)",
       "icon": null,
       "version": "1.0.0",
-      "address": "210.131.215.210:25565",
+      "address": "main.mc.gdev.f5.si:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",

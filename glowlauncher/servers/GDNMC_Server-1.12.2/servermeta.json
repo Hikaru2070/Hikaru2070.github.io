@@ -1,11 +1,11 @@
 {
-  "$schema": "file:///C:/Users/hika0/github/nebula-assets/schemas/ServerMetaSchema.schema.json",
+  "$schema": "http://launcher-assets.mc.gdev.f5.si/glowlauncher/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "GDNMC_Server-1.12.2 (Minecraft 1.12.2)",
-    "description": "GDNMC_Server-1.12.2 Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
+    "name": "GDNMC_Server (Minecraft 1.12.2)",
+    "description": "GDNMC_Server Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "address": "210.131.212.147:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
