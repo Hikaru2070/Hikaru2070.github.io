@@ -30,7 +30,7 @@
           "artifact": {
             "size": 4466108,
             "MD5": "fda01cd3cae80c2c6348ac3fc26e0af8",
-            "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-universal.jar"
+            "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-universal.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 12345,
                 "MD5": "1959bb357e54a9666dd80d744b524639",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/versions/1.12.2-forge-14.23.5.2859/1.12.2-forge-14.23.5.2859.json"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/versions/1.12.2-forge-14.23.5.2859/1.12.2-forge-14.23.5.2859.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 387903,
                 "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 614590,
                 "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 2514991,
                 "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 219554,
                 "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 58018,
                 "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 13449765,
                 "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
               }
             },
             {
@@ -120,7 +120,7 @@
               "artifact": {
                 "size": 25365,
                 "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
               }
             },
             {
@@ -130,7 +130,7 @@
               "artifact": {
                 "size": 206575,
                 "MD5": "359c4a6743a082c689039482eed78670",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
               }
             },
             {
@@ -140,7 +140,7 @@
               "artifact": {
                 "size": 5538130,
                 "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
               }
             },
             {
@@ -150,7 +150,7 @@
               "artifact": {
                 "size": 419701,
                 "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
               }
             },
             {
@@ -160,7 +160,7 @@
               "artifact": {
                 "size": 4372892,
                 "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
               }
             },
             {
@@ -170,7 +170,7 @@
               "artifact": {
                 "size": 726500,
                 "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
               }
             },
             {
@@ -180,7 +180,7 @@
               "artifact": {
                 "size": 648679,
                 "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
               }
             },
             {
@@ -190,7 +190,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
@@ -200,7 +200,7 @@
               "artifact": {
                 "size": 318956,
                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
               }
             },
             {
@@ -210,7 +210,7 @@
               "artifact": {
                 "size": 2523218,
                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
               }
             },
             {
@@ -220,7 +220,7 @@
               "artifact": {
                 "size": 54961,
                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
               }
             },
             {
@@ -230,7 +230,7 @@
               "artifact": {
                 "size": 78175,
                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
               }
             },
             {
@@ -240,7 +240,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -250,7 +250,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             },
             {
@@ -260,7 +260,7 @@
               "artifact": {
                 "size": 21223,
                 "MD5": "196442f1bdde4dbb0f576eed616e21b0",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
               }
             }
           ]
@@ -291,7 +291,7 @@
           "artifact": {
             "size": 7400,
             "MD5": "9445bd28cb8bbf3405bcacc54627a6da",
-            "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar"
+            "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar"
           },
           "subModules": [
             {
@@ -301,7 +301,7 @@
               "artifact": {
                 "size": 16554,
                 "MD5": "2b7daf23d11fff0d0e2b7ae54712dbdf",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/versions/1.20.1-forge-47.2.20/1.20.1-forge-47.2.20.json"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/versions/1.20.1-forge-47.2.20/1.20.1-forge-47.2.20.json"
               }
             },
             {
@@ -312,7 +312,7 @@
               "artifact": {
                 "size": 118686,
                 "MD5": "a710f72f170f88737ff72a53ea1349d8",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar"
               },
               "subModules": []
             },
@@ -324,7 +324,7 @@
               "artifact": {
                 "size": 16517,
                 "MD5": "3521da7e51982c2ace3a21ffe4070693",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar"
               },
               "subModules": []
             },
@@ -336,7 +336,7 @@
               "artifact": {
                 "size": 4999,
                 "MD5": "4aeef0ba963dfbe0c4104b6532989988",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar"
               },
               "subModules": []
             },
@@ -348,7 +348,7 @@
               "artifact": {
                 "size": 2679250,
                 "MD5": "27de7a3f2e5c69d54bc52cb179831aa9",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-universal.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-universal.jar"
               },
               "subModules": []
             },
@@ -360,7 +360,7 @@
               "artifact": {
                 "size": 4791301,
                 "MD5": "c548aeb8e9e1cd028005b628b54f3a29",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-client.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-client.jar"
               },
               "subModules": []
             },
@@ -372,7 +372,7 @@
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
@@ -384,7 +384,7 @@
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
@@ -396,7 +396,7 @@
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
@@ -407,7 +407,7 @@
               "artifact": {
                 "size": 88749,
                 "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
               }
             },
             {
@@ -417,7 +417,7 @@
               "artifact": {
                 "size": 121863,
                 "MD5": "29721ee4b5eacf0a34b204c345c8bc69",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
               }
             },
             {
@@ -427,7 +427,7 @@
               "artifact": {
                 "size": 72209,
                 "MD5": "7d1fce986192f71722b19754e4cb9e61",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
               }
             },
             {
@@ -437,7 +437,7 @@
               "artifact": {
                 "size": 51944,
                 "MD5": "44755681b7d6fa7143afbb438e55c20c",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
               }
             },
             {
@@ -447,7 +447,7 @@
               "artifact": {
                 "size": 91076,
                 "MD5": "ad0016249fb68bb9196babefd47b80dc",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
               }
             },
             {
@@ -457,7 +457,7 @@
               "artifact": {
                 "size": 33978,
                 "MD5": "4df0adafc78ebba404d4037987d36b61",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
               }
             },
             {
@@ -467,7 +467,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -477,7 +477,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -487,7 +487,7 @@
               "artifact": {
                 "size": 53985,
                 "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
               }
             },
             {
@@ -497,7 +497,7 @@
               "artifact": {
                 "size": 29831,
                 "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
               }
             },
             {
@@ -507,7 +507,7 @@
               "artifact": {
                 "size": 24199,
                 "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
               }
             },
             {
@@ -517,7 +517,7 @@
               "artifact": {
                 "size": 130343,
                 "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
               }
             },
             {
@@ -527,7 +527,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -537,7 +537,7 @@
               "artifact": {
                 "size": 2572,
                 "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -547,7 +547,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -557,7 +557,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -567,7 +567,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -577,7 +577,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -587,7 +587,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -597,7 +597,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -607,7 +607,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -617,7 +617,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -627,7 +627,7 @@
               "artifact": {
                 "size": 2167288,
                 "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
               }
             },
             {
@@ -637,7 +637,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
               }
             },
             {
@@ -647,7 +647,7 @@
               "artifact": {
                 "size": 15895,
                 "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -657,7 +657,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -667,7 +667,7 @@
               "artifact": {
                 "size": 32195,
                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -677,7 +677,7 @@
               "artifact": {
                 "size": 264185,
                 "MD5": "acee22eaf221c8cd61225002596f7640",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.2.20/fmlloader-1.20.1-47.2.20.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.2.20/fmlloader-1.20.1-47.2.20.jar"
               }
             },
             {
@@ -687,7 +687,7 @@
               "artifact": {
                 "size": 170553,
                 "MD5": "b54b6fe4bd44788dcc6655f3399541f4",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.20/fmlearlydisplay-1.20.1-47.2.20.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/glowlauncher/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.20/fmlearlydisplay-1.20.1-47.2.20.jar"
               }
             }
           ]
