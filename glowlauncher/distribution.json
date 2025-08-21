@@ -771,26 +771,6 @@
             "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/twilightforest-1.20.1-4.3.2508-universal.jar",
             "MD5": "0e1ca36ec2ca7e35059dea1600aa31ee"
           }
-        },
-        {
-          "id": "generated.library:framework:forge-1.20.1-0.7.15@jar",
-          "name": "framework",
-          "type": "Library",
-          "artifact": {
-            "size": 309560,
-            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/libraries/framework-forge-1.20.1-0.7.15.jar",
-            "MD5": "135716c910b1036a6dd2f0fe0bc7b03d"
-          }
-        },
-        {
-          "id": "generated.library:geckolib:forge-1.20.1-4.7.3@jar",
-          "name": "geckolib",
-          "type": "Library",
-          "artifact": {
-            "size": 1012611,
-            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/libraries/geckolib-forge-1.20.1-4.7.3.jar",
-            "MD5": "771fb21a83d735260ff271092d8cc311"
-          }
         }
       ]
     }
